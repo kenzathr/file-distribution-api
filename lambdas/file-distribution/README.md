@@ -5,7 +5,8 @@
 A complete serverless architecture on AWS for secure distribution of large files (3D renders).
 
 **Project Name:** Axeon File Distribution  
-**Author:** [TAHRI JOUTEY KANZA 
+**Author:** TAHRI JOUTEY KANZA 
+
 **Deadline:** March 28, 2026  
 **Status:** In Progress
 
